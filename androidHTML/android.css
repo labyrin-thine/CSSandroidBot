@@ -103,6 +103,7 @@ html {
 #r_arm {
   position: inherit;
   left: 205px;
+  top: -5px;
 }
 
 #l_leg, #r_leg {
