@@ -101,8 +101,8 @@ html {
 }
 
 #r_arm {
-  position: fixed;
-  left: 725px;
+  position: inherit;
+  left: 205px;
 }
 
 #l_leg, #r_leg {
